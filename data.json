@@ -1,0 +1,75 @@
+[
+    {
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHJpbmtzfGVufDB8fDB8fHww",
+      "title": "Mineral Water",
+      "price": 11.99,
+      "rating": 4.6,
+      "category": "Water",
+      "description": "Refreshing mineral water sourced from natural springs, perfect for staying hydrated throughout the day."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHJpbmtzfGVufDB8fDB8fHww",
+      "title": "Juice Water",
+      "price": 44.99,
+      "rating": 2.6,
+      "category": "Water",
+      "description": "Refreshing mineral water sourced from natural springs, perfect for staying hydrated throughout the day."
+    },
+    {
+      "image": "https://images.unsplash.com/photo-1551024709-8f23befc6f87?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8ZHJpbmtzfGVufDB8fDB8fHww",
+      "title": "Fruits Water",
+      "price": 55.99,
+      "rating": 3.6,
+      "category": "Water",
+      "description": "Refreshing mineral water sourced from natural springs, perfect for staying hydrated throughout the day."
+    },
+    {
+      "image": "https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-2foodgroups_vegetables_detailfeature.jpg?sfvrsn=226f1bc7_6",
+      "title": "Organic Spinach",
+      "price": 43.49,
+      "rating": 4.9,
+      "category": "Vegetables",
+      "description": "Fresh organic spinach packed with vitamins and minerals, great for salads, smoothies, or sautéing."
+    },
+    {
+      "image": "https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-2foodgroups_vegetables_detailfeature.jpg?sfvrsn=226f1bc7_6",
+      "title": "Vegetable Salad",
+      "price": 40.49,
+      "rating": 3.9,
+      "category": "Vegetables",
+      "description": "Fresh organic spinach packed with vitamins and minerals, great for salads, smoothies, or sautéing."
+    },
+    {
+      "image": "https://www.healthyeating.org/images/default-source/home-0.0/nutrition-topics-2.0/general-nutrition-wellness/2-2-2-2foodgroups_vegetables_detailfeature.jpg?sfvrsn=226f1bc7_6",
+      "title": "Vegetable Roast",
+      "price": 41.49,
+      "rating": 2.9,
+      "category": "Vegetables",
+      "description": "Fresh organic spinach packed with vitamins and minerals, great for salads, smoothies, or sautéing."
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2015/07/02/20/37/cup-829527_1280.jpg",
+      "title": "Green Tea",
+      "price": 3.99,
+      "rating": 4.7,
+      "category": "Tea",
+      "description": "Premium green tea leaves with a delicate flavor and antioxidants, perfect for a soothing cup of tea any time of day."
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2015/07/02/20/37/cup-829527_1280.jpg",
+      "title": "Black Tea",
+      "price": 46.99,
+      "rating": 3.7,
+      "category": "Tea",
+      "description": "Premium green tea leaves with a delicate flavor and antioxidants, perfect for a soothing cup of tea any time of day."
+    },
+    {
+      "image": "https://cdn.pixabay.com/photo/2015/07/02/20/37/cup-829527_1280.jpg",
+      "title": "Organic Tea",
+      "price": 35.99,
+      "rating": 2.7,
+      "category": "Tea",
+      "description": "Premium green tea leaves with a delicate flavor and antioxidants, perfect for a soothing cup of tea any time of day."
+    }
+  ]
+  
